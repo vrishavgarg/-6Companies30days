@@ -24,7 +24,7 @@ string longestPrefix(string s) {
 }
 
 int main(){
-    
+
     string s="ababab";
     cout<<longestPrefix(s);
     
