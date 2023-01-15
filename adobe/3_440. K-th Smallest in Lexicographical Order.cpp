@@ -16,6 +16,7 @@ int findKthNumber(int n, int k) {
             k--;
         }
     }
+    
     return ans;
 }
 
